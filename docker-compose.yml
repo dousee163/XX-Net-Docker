@@ -1,0 +1,14 @@
+version : '3.9'
+
+services:
+  xxnet:
+    image: dousee/xxnet
+    restart: always
+    ports:
+      - 8085:8085
+      - 8086:8086
+      - 8087:8087
+      - 1080:1080
+    volumes:
+      - "./volumes/xxnet/data:/home/xxnet/data"
+      
