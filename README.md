@@ -29,5 +29,5 @@ services:
       - 8087:8087
       - 1080:1080
     volumes:
-      - "/home/volumes/xxnet/data:/home/xxnet/data"
+      - "./volumes/xxnet/data:/home/xxnet/data"
 ```
