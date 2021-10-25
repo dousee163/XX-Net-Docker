@@ -2,7 +2,7 @@
 XXNet docker 版本
 
 # version
-基于XXNet 4.5.3
+基于XXNet 4.5.4
 
 # 使用方法
 //拉取镜像
