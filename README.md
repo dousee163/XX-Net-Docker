@@ -33,3 +33,8 @@ services:
       - 8087:8087
       - 1080:1080
 ```
+# 参考资料
+https://github.com/XX-net/XX-Net  
+https://hub.docker.com/repository/docker/dousee/xxnet
+
+
