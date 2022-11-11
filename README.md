@@ -2,7 +2,10 @@
 XXNet docker 版本 (可用于局域网共享)
 
 # version
-基于XXNet 4.13.1 (Release 2022/11/11)
+・4.13.1  Release 2022/11/11  
+・4.12.5  Release 2022/11/03  
+・4.8.0   Release 2022/05/08  
+・4.5.4   Release 2021/09/19
 
 # 使用方法
 //拉取镜像
