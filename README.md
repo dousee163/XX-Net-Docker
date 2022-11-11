@@ -31,6 +31,4 @@ services:
       - 8086:8086
       - 8087:8087
       - 1080:1080
-    volumes:
-      - "./volumes/xxnet/data:/home/xxnet/data"
 ```
