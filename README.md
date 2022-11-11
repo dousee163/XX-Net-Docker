@@ -1,5 +1,5 @@
 # docker-XXNet
-XXNet docker 版本
+XXNet docker 版本 (可用于局域网共享)
 
 # version
 基于XXNet 4.13.1 (Release 2022/11/11)
