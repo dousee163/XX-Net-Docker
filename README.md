@@ -1,6 +1,6 @@
 # docker-XXNet
 XX Net docker 版本  
-(可用于局域网共享)
+已开启局域网共享模式，该docker可以运行中服务器上，客户端通过Proxy设定共享上网
 
 # version
 ・4.13.7  Release 2022/11/30  
