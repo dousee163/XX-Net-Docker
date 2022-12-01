@@ -1,4 +1,4 @@
-# docker-XXNet
+# XX-Net-Docker
 XX Net docker 版本  
 已开启局域网共享模式，该docker可以运行中服务器上，客户端通过Proxy设定共享上网
 
