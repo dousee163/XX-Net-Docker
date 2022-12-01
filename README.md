@@ -1,8 +1,9 @@
 # docker-XXNet
-XXNet docker 版本  
+XX Net docker 版本  
 (可用于局域网共享)
 
 # version
+・4.13.7  Release 2022/11/30  
 ・4.13.1  Release 2022/11/11  
 ・4.12.5  Release 2022/11/03  
 ・4.8.0   Release 2022/05/08  
