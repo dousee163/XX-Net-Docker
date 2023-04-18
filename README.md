@@ -3,7 +3,7 @@ XX Net docker 版本
 已开启局域网共享模式，该docker可以运行中服务器上，客户端通过Proxy设定共享上网
 
 # version
-・5.1.0  Release 2023/03/27  内置ChatGPT
+・5.1.0  Release 2023/03/27  内置ChatGPT \
 ・4.13.7  Release 2022/11/30  
 ・4.13.1  Release 2022/11/11  
 ・4.12.5  Release 2022/11/03  
